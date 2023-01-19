@@ -42,7 +42,10 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
+@Composable
+fun sundasy(){
 
+}
 @Composable
 fun Greeting(name: String) {
     Text(text = "Hello $name!")
